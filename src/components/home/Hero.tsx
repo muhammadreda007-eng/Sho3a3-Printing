@@ -42,7 +42,7 @@ export function Hero({ settings }: { settings: SiteSettings }) {
           <div className="absolute -inset-5 rotate-3 rounded-[2.5rem] bg-brand/10" />
           <div className="relative overflow-hidden rounded-[2.25rem] border-[8px] border-white bg-brand shadow-[0_30px_80px_rgba(7,80,108,.22)]">
           <Image
-           src="/brand/Favicon.png"
+           src="/brand/favicon.png"
            alt="خدمات شعاع للطباعة"
            width={1080}
            height={1080}
